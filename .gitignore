@@ -1,0 +1,8 @@
+#dependemcies
+/node_modules
+
+#envoronmentf iles
+.env
+
+#logs
+npm-debug.log*
